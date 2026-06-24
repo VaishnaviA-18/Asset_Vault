@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -24,6 +25,8 @@ dist-ssr
 *.sln
 *.sw?
 =======
+=======
+>>>>>>> 289f97e89f6c02cd85b8b329d3c27bca22df0fa5
 # Compiled class file
 *.class
 
@@ -48,4 +51,7 @@ dist-ssr
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< HEAD
 >>>>>>> c08b6365956e139ba5b8156ede5beb61f0e35870
+=======
+>>>>>>> 289f97e89f6c02cd85b8b329d3c27bca22df0fa5

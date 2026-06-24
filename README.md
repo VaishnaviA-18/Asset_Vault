@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -19,3 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # AssetVault
 Enterprise Digital Asset Management System built using React, Spring Boot and MySQL.
 >>>>>>> c08b6365956e139ba5b8156ede5beb61f0e35870
+=======
+# Asset_Vault
+Enterprise Digital Asset Management System built using React, Spring Boot and MySQL.
+>>>>>>> 289f97e89f6c02cd85b8b329d3c27bca22df0fa5
